@@ -1,2 +1,2 @@
 # LGWen.github.io
-想做大神
+我的个人主页
