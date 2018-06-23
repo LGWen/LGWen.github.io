@@ -1,8 +1,21 @@
-title: Lgwen.GitHub.io
-description: 个人主页
-google_analytics: 
-show_downloads: true
-theme: jekyll-theme-architect
+menu:
+    Blog: /
+    Archive: /archives/
+    Weibo: http://weibo.com/sunchongsheng
+    GitHub: https://github.com/pinggod
+    Rss: /atom.xml
 
-gems:
-  - jekyll-mentions
+favicon: /favicon.png
+logo: /favicon.png
+
+# Comment
+# e.g disqus: seansun
+disqus:
+duoshuo:
+
+# Analytics
+# google-analytics:
+# ga: UA-xxxxxxxx-x
+
+# Copyright Infomation
+startyear: 2015
